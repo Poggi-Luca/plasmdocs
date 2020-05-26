@@ -1,4 +1,4 @@
-# Trying
+# Plasm Testnet additional features
 
 What are the functionalities of Plasm Testnet? On top of all the existing modules for Substrate, Plasm Testnet has three additional features.
 

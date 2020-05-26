@@ -105,7 +105,7 @@ To make things easy, please use the official [UI Toolbox](https://apps.plasmnet.
 
 The link above should redirect you directly to the toolbox page shown in the following image.
 
-![Send Extrinsic](.gitbook/assets/send_extrinsic.png)
+![Send Extrinsic](../.gitbook/assets/send_extrinsic.png)
 
 Now we just copy the hex string to the extrinsic field and push the **Submit RPC call** button. The transfer transaction will be sent immediately. You can check the results from the [account balances](https://apps.plasmnet.io/#/accounts) page.
 

@@ -47,7 +47,7 @@ This item explains the first rewards of genesis plasm mainnet.
 
 ### 2020 Q3
 
-* [Ovm + Plasma](../technicalchapter/ovm.md) module will be avalable.
+* [Ovm + Plasma](../../technical-chapter/ovm.md) module will be avalable.
 * [Real time Lockdrop](../plasmnetwork/realtimelockdrop.md) module will be avalable.
 
 ### 2020 Q4

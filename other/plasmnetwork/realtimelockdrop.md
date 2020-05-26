@@ -10,7 +10,7 @@ Plasm Network implements Real-time Lockdrop approach using Substrate runtime mod
 
 This simple oracle implemented using Off-chain Workers and fetch BTC/ETH/EOS/etc. token price via HTTP requests on authorities.
 
-![Dollar Rate Oracle](../.gitbook/assets/dollar_rate_oracle.png)
+![Dollar Rate Oracle](../../.gitbook/assets/dollar_rate_oracle.png)
 
 Dollar price filtered using [Medial filter](https://en.wikipedia.org/wiki/Median_filter) to prevent high price fluctuation between measurements.
 
@@ -18,7 +18,7 @@ Dollar price filtered using [Medial filter](https://en.wikipedia.org/wiki/Median
 
 As same as dollar rate oracle claim voting oracles checks that tokens in different chains was really locked according to protocol and votes for user request to mint Plasm native token for user.
 
-![Vote Oracle](../.gitbook/assets/vote_oracle.png)
+![Vote Oracle](../../.gitbook/assets/vote_oracle.png)
 
 #### BTC locking user story
 

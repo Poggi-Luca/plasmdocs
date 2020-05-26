@@ -1,4 +1,4 @@
-# TechnicalChapter
+# Index
 
 This chapter discusses the technical interests used in Plasm.
 

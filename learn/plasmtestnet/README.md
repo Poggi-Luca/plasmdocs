@@ -1,4 +1,4 @@
-# PlasmTestnet
+# Plasm Testnet
 
 This chapter discusses about Plasm Testnets.
 

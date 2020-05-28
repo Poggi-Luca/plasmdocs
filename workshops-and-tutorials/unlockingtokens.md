@@ -1,4 +1,4 @@
-# Unlock Guide
+# Unlock
 
 Lockdrop's Lock Contract contains the following anonymous function.
 

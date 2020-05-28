@@ -1,4 +1,4 @@
-# PlasmMainnet
+# Plasm Mainnet
 
 This page describes the specs of Plasm mainnet in detail. In addition, the behavior of Plasm mainnet changes as the Network grows. Note that the past status is also listed here. Each detailed spec is annotated at the beginning of the page, whether it is "Latest" or "Deprecate".
 
@@ -47,7 +47,7 @@ This item explains the first rewards of genesis plasm mainnet.
 
 ### 2020 Q3
 
-* [Ovm + Plasma](../../technical-chapter/ovm.md) module will be avalable.
+* [Ovm + Plasma](../ovm.md) module will be avalable.
 * [Real time Lockdrop](../plasmnetwork/realtimelockdrop.md) module will be avalable.
 
 ### 2020 Q4

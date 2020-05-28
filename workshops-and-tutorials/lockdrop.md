@@ -1,4 +1,4 @@
-# Lockdrop Guide
+# Lockdrop
 
 [日本版はこちら](https://medium.com/stake-technologies/plasm-network-lockdrop-%E3%81%B8%E3%81%AE%E5%8F%82%E5%8A%A0%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3-1ed3b2d6a698).
 

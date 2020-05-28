@@ -2,9 +2,9 @@
 
 This is a guide for importing your ECDSA key \(notably Ethereum wallets\) into Plasm Network to use it within the network. Any Ethereum private keys can be used within Plasm Network, however, this guide will be most helpful for Etherum lockdrop participants to access their tokens.
 
-**Disclaimer**
-
-Please be cautious when handling Ethereum Private key, as it may potentially compromise your Ethereum wallet when it is leaked.
+{% hint style="warning" %}
+**Disclaimer:** Please be cautious when handling Ethereum Private key, as it may potentially compromise your Ethereum wallet when it is leaked.
+{% endhint %}
 
 ## Plasm Network Portal
 

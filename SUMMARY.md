@@ -1,47 +1,43 @@
 # Table of contents
 
 * [Introduction](Introduction.md)
-* [Testnet features](testnet-features.md)
 
 ## Workshops & Tutorials
 
-* [Lockdrop Guide](workshops-and-tutorials/lockdrop.md)
-* [Unlock Guide](workshops-and-tutorials/unlockingtokens.md)
+* [Lockdrop](workshops-and-tutorials/lockdrop.md)
+* [Unlock](workshops-and-tutorials/unlockingtokens.md)
+* [Operator Trading](workshops-and-tutorials/operatortrading.md)
+* [Dapps Staking](workshops-and-tutorials/dappsstaking.md)
+* [Import Ethereum Seed](workshops-and-tutorials/importethereumseed.md)
+* [Realtime Lockdrop](workshops-and-tutorials/lockdropmodule.md)
 
-## Trying <a id="trying-1"></a>
+## Learn
 
-* [Plasm Testnet additional features](trying-1/trying.md)
-* [Operator Trading](trying-1/operatortrading.md)
-* [Dapps Staking](trying-1/dappsstaking.md)
-* [Import Ethereum Seed](trying-1/importethereumseed.md)
-* [Realtime Lockdrop](trying-1/lockdropmodule.md)
-
-## Technical Chapter
-
-* [Index](technical-chapter/technicalchapter.md)
-* [Plasma Overview](technical-chapter/plasmaoverview.md)
-* [OVM Overview](technical-chapter/ovm.md)
-* [Generalized Plasma](technical-chapter/generalizedplasma.md)
-* [Constitution](technical-chapter/constitution.md)
-* [Contracts](technical-chapter/contracts.md)
-* [Client](technical-chapter/client.md)
-* [Operator](technical-chapter/operator.md)
+* [Index](learn/technicalchapter.md)
+* [Plasma Overview](learn/plasmaoverview.md)
+* [Generalized Plasma](learn/generalizedplasma.md)
+* [OVM Overview](learn/ovm.md)
+* [Constitution](learn/constitution.md)
+* [Contracts](learn/contracts.md)
+* [Client](learn/client.md)
+* [Operator](learn/operator.md)
+* [Plasm Network](learn/plasmnetwork/README.md)
+  * [Token Ecosystem](learn/plasmnetwork/tokenecosystem.md)
+  * [Consensus Algorithm](learn/plasmnetwork/consensusalgorithm.md)
+  * [Dapps Rewards](learn/plasmnetwork/dappsrewards.md)
+  * [Operator Trading](learn/plasmnetwork/operatortrading.md)
+  * [Lockdrop](learn/plasmnetwork/lockdrop.md)
+  * [Real-time Lockdrop](learn/plasmnetwork/realtimelockdrop.md)
+* [Plasm Mainnet](learn/plasmmainnet/README.md)
+  * [Chainspec Overview](learn/plasmmainnet/chainspec.md)
+  * [First Rewards Guide](learn/plasmmainnet/firstrewards.md)
+* [Plasm Testnet](learn/plasmtestnet/README.md)
+  * [Chainspec Overview](learn/plasmtestnet/designoverview.md)
+  * [Testnet features](learn/plasmtestnet/testnet-features.md)
+  * [Validator Guide](learn/plasmtestnet/validatorguide.md)
 
 ## Other
 
-* [Plasm Network](other/plasmnetwork/README.md)
-  * [Token Ecosystem](other/plasmnetwork/tokenecosystem.md)
-  * [Consensus Algorithm](other/plasmnetwork/consensusalgorithm.md)
-  * [Dapps Rewards](other/plasmnetwork/dappsrewards.md)
-  * [Operator Trading](other/plasmnetwork/operatortrading.md)
-  * [Lockdrop](other/plasmnetwork/lockdrop.md)
-  * [Real-time Lockdrop](other/plasmnetwork/realtimelockdrop.md)
-* [PlasmMainnet](other/plasmmainnet/README.md)
-  * [Chainspec Overview](other/plasmmainnet/chainspec.md)
-  * [First Rewards Guide](other/plasmmainnet/firstrewards.md)
-* [PlasmTestnet](other/plasmtestnet/README.md)
-  * [Chainspec Overview](other/plasmtestnet/designoverview.md)
-  * [Validator Guide](other/plasmtestnet/validatorguide.md)
 * [GitHub](https://github.com/staketechnologies/Plasm)
 * [Documentation \(crates\)](http://crates.plasmnet.io/)
 * [Whitepaper \(EN\)](https://github.com/staketechnologies/plasmdocs/blob/master/wp/en.pdf)

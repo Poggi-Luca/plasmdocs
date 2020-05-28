@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](Introduction.md)
+* [Testnet features](testnet-features.md)
 
 ## Guides
 

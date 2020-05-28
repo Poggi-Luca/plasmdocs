@@ -3,10 +3,10 @@
 * [Introduction](Introduction.md)
 * [Testnet features](testnet-features.md)
 
-## Guides
+## Workshops & Tutorials
 
-* [Lockdrop Guide](guides/lockdrop.md)
-* [Unlock Guide](guides/unlockingtokens.md)
+* [Lockdrop Guide](workshops-and-tutorials/lockdrop.md)
+* [Unlock Guide](workshops-and-tutorials/unlockingtokens.md)
 
 ## Trying <a id="trying-1"></a>
 

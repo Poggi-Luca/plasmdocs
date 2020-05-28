@@ -1,6 +1,8 @@
 # Introduction
 
-Reminder: This is the first draft. We will polish this draft to make it more understandable and more professional.
+{% hint style="info" %}
+**Reminder:** This is the first draft. We will polish this draft to make it more understandable and more professional
+{% endhint %}
 
 ## Introduction
 
